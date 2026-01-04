@@ -25,6 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 html code
 <!DOCTYPE html>
 <html lang="en">
@@ -91,7 +92,7 @@ h2 {
     transform: scale(1.05);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
-
+```
 
 ## OUTPUT:
 <img width="1208" height="1468" alt="Igallery" src="https://github.com/user-attachments/assets/790e7f5e-3ea2-4e92-9983-3e899dbbd2e8" />
